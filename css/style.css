@@ -1,0 +1,189 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200&display=swap');
+
+
+
+.mainReflect {
+    margin: 0px;
+    color: seashell;
+    background-color: slategray;
+    height: 100%;
+
+}
+
+p {
+    font-size: 15px;
+    color: black;
+    font-family: 'Poppins', sans-serif;
+
+}
+
+mainPage {
+    margin-left: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+    background: transparent;
+    color: seashell;
+    background-color: slategray;
+    font-family: monospace;
+    
+    
+}
+
+h2 {
+    font-family: monospace; 
+    font-size: 40px;
+    text-align: center;
+}
+
+h3 {
+    font-family: monospace;
+    font-size: 30px;
+}
+
+button {
+    background-color: tomato;
+    height: 8mm;
+    width: 30mm;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 400px;
+    width: 250px;
+  }
+
+.mainContact {
+    color: white;
+    background-color: rgba(121, 7, 173, 0.493);
+    height: 50%;
+    font-family: 'Poppins', sans-serif;
+}
+
+html,
+body {
+    margin: 0 ;
+    padding: 0;
+    height: -2%;
+}
+
+h2 {margin-top: 0;}
+
+
+.mainResume {
+    font-family:  'Poppins', sans-serif;
+    color: black;
+    background-color: rgb(8, 187, 211);
+    text-align: center;
+    text-decoration: black ;
+    height: 100%;
+}
+
+divres{
+    text-align: center;
+    color: black;
+    font-family: monospace;
+    
+}
+
+html,
+body {
+    margin: 0 ;
+    padding: 0;
+    height: 100%;
+}
+
+h2 {margin-top: 0;}
+
+
+img {
+    height: 300px;
+    width: 100px;
+
+
+}
+.reflect{
+    background-color:grey;
+    height: 100%;
+   
+    
+}
+div{
+    margin-top: ;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+
+}
+
+
+html,
+body {
+    margin: 0 ;
+    padding: 0;
+    height: 100%;
+}
+
+h2 {margin-top: 0;}
+
+#honestytext{
+    background-color:lavender;
+}
+
+html,
+body {
+    margin: 0 ;
+    padding: 0;
+    height: 100%;
+}
+
+h2 {margin-top: 0;}
+
+#mainImg{
+    height:300px;
+    width:250px;
+}
+
+footer {
+    text-align: center;
+    font-size: 15px;
+    font-family: "Outfit", serif;
+    background-color: #000701;
+    margin-top:0 px;
+    padding-top: 20px;
+    padding-bottom: 30px;
+    color: yellowgreen;
+    font-family: monospace;
+    
+    
+}
+.mainPage{
+    background-color:seagreen;
+    height: 100%;
+    margin-left: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+    
+}
+
+html,
+body {
+    margin: 0 ;
+    padding: 0;
+    height: 100%;
+}
+
+h2{margin-top: 0;}
+
+
+
+
